@@ -1,3 +1,5 @@
-SELECT *
+SELECT * 
 FROM nomnom
-WHERE health IS NULL;
+WHERE neighborhood = 'Midtown'
+OR neighborhood = 'Downtown'
+OR neighborhood = 'Chinatown';
