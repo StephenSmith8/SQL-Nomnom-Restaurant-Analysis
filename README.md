@@ -4,7 +4,7 @@ Project Overview
 
 This project involves analyzing the nomnom table, a dataset containing information about restaurants, including their names, neighborhoods, cuisines, review scores, price categories, and health grades. The objective is to execute a series of SQL queries to explore the dataset, extract specific insights, and transform data to answer practical questions. 
 
-Quieries
+Queries
 
 1. Overview of the nomnom table.
 2. Identify the distinct neighborhoods in the nomnom table.
