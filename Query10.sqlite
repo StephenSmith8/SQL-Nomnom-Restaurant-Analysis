@@ -1,0 +1,4 @@
+SELECT *
+FROM nomnom
+ORDER BY review DESC
+LIMIT 10;
