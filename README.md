@@ -18,9 +18,9 @@ Quieries
 10. Create a Top 10 Restaurants Ranking based on reviews.
 11. Use a CASE statement to change the rating systemt to:
 
-    review > 4.5 is Extraordinary
-    review > 4 is Excellent
-    review > 3 is Good
-    review > 2 is Fair
-    Everything else is Poor
-    Rename the new column
+    - review > 4.5 is Extraordinary
+    - review > 4 is Excellent
+    - review > 3 is Good
+    - review > 2 is Fair
+    - Everything else is Poor
+    - Rename the new column
