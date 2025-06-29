@@ -1,3 +1,4 @@
-SELECT *
+SELECT * 
 FROM nomnom
-WHERE name LIKE '%meatball%';
+WHERE cuisine = 'Italian'
+AND price = '$$$';
