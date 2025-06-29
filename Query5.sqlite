@@ -1,4 +1,3 @@
 SELECT * 
 FROM nomnom
-WHERE cuisine = 'Italian'
-AND price = '$$$';
+WHERE review >= 4;
